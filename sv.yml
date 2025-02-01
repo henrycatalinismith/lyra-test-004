@@ -1,1 +1,11 @@
-eukaryota.animalia.chordata.mammalia.carnivora.felidae.felis.felis_catus: Cat
+eukaryota:
+  animalia:
+    chordata:
+      mammalia:
+        carnivora:
+          felidae:
+            felis:
+              felis_catus: Cat
+          canidae:
+            canis:
+              canis_lupus_familiaris: Hund
